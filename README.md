@@ -16,4 +16,5 @@ In the project directory, you can run:
  * Virtual_Paint -> in this program first you have to add the HSV values which you can find 
  with the help of Finding_colour_HSV program and after you have to add RGB valurs of that colour
     
-      * For finding RGB values of colour you can use - [click hera] (https://www.rapidtables.com/web/color/RGB_Color.htmlhow)  
+      * For finding RGB values of colour you can use - [click here
+      ] (https://www.rapidtables.com/web/color/RGB_Color.htmlhow)  
